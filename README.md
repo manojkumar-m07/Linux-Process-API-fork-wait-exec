@@ -45,7 +45,8 @@ int main() {
     }
 }
 ```
-##OUTPUT
+
+## OUTPUT
 <img width="505" height="244" alt="Screenshot 2026-05-01 094418" src="https://github.com/user-attachments/assets/75e28b92-c526-4a2c-afa3-a3b3f5416bba" />
 
 
@@ -93,10 +94,10 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 
 <img width="542" height="211" alt="Screenshot 2026-05-01 094736" src="https://github.com/user-attachments/assets/4f0d1340-ec2b-4988-8f76-2639e4d6ad0a" />
 
 
-# RESULT:
+## RESULT:
 The programs are executed successfully.
